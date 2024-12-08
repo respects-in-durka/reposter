@@ -1,0 +1,8 @@
+AMQP-CPP
+boost_1_82_0
+cmake-build-debug
+Crow
+libs
+td
+.env
+.idea
